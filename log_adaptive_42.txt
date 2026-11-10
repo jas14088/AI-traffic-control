@@ -1,0 +1,107 @@
+Step #0.00 (1ms ~= 1000.00*RT, ~4000.00UPS, TraCI: 0ms, vehicles TOT 4 ACT 4 BUF 0)       
+Step #100.00 (1ms ~= 1000.00*RT, ~8000.00UPS, TraCI: 1ms, vehicles TOT 50 ACT 8 BUF 2)    
+Step #200.00 (0ms ?*RT. ?UPS, TraCI: 1ms, vehicles TOT 102 ACT 8 BUF 0)                   
+Step #300.00 (0ms ?*RT. ?UPS, TraCI: 1ms, vehicles TOT 144 ACT 8 BUF 6)                   
+Step #400.00 (0ms ?*RT. ?UPS, TraCI: 0ms, vehicles TOT 150 ACT 0 BUF 0)                   
+Step #500.00 (0ms ?*RT. ?UPS, TraCI: 1ms, vehicles TOT 150 ACT 0 BUF 0)                   
+Step #600.00 (0ms ?*RT. ?UPS, TraCI: 1ms, vehicles TOT 150 ACT 0 BUF 0)                   
+
+DEBUG | Phase: 0 | Requested green: 25s | Scheduled remaining: 25.0s
+Time: 1s | Phase: 0 | AI congestion: 0 | Current queue: 0 | Other queue: 0 | Queue difference: 0 | Green: 25s
+YELLOW CHECK | Time: 27s | Phase: 1 | Remaining: 2.0s
+YELLOW CHECK | Time: 28s | Phase: 1 | Remaining: 1.0s
+YELLOW CHECK | Time: 29s | Phase: 1 | Remaining: 0.0s
+DEBUG | Phase: 2 | Requested green: 29s | Scheduled remaining: 29.0s
+Time: 30s | Phase: 2 | AI congestion: 1 | Current queue: 3 | Other queue: 2 | Queue difference: 1 | Green: 29s
+YELLOW CHECK | Time: 60s | Phase: 3 | Remaining: 2.0s
+YELLOW CHECK | Time: 61s | Phase: 3 | Remaining: 1.0s
+YELLOW CHECK | Time: 62s | Phase: 3 | Remaining: 0.0s
+DEBUG | Phase: 0 | Requested green: 37s | Scheduled remaining: 37.0s
+Time: 63s | Phase: 0 | AI congestion: 1 | Current queue: 6 | Other queue: 0 | Queue difference: 6 | Green: 37s
+YELLOW CHECK | Time: 101s | Phase: 1 | Remaining: 2.0s
+YELLOW CHECK | Time: 102s | Phase: 1 | Remaining: 1.0s
+YELLOW CHECK | Time: 103s | Phase: 1 | Remaining: 0.0s
+DEBUG | Phase: 2 | Requested green: 34s | Scheduled remaining: 34.0s
+Time: 104s | Phase: 2 | AI congestion: 1 | Current queue: 4 | Other queue: 0 | Queue difference: 4 | Green: 34s
+YELLOW CHECK | Time: 139s | Phase: 3 | Remaining: 2.0s
+YELLOW CHECK | Time: 140s | Phase: 3 | Remaining: 1.0s
+YELLOW CHECK | Time: 141s | Phase: 3 | Remaining: 0.0s
+DEBUG | Phase: 0 | Requested green: 37s | Scheduled remaining: 37.0s
+Time: 142s | Phase: 0 | AI congestion: 1 | Current queue: 6 | Other queue: 0 | Queue difference: 6 | Green: 37s
+YELLOW CHECK | Time: 180s | Phase: 1 | Remaining: 2.0s
+YELLOW CHECK | Time: 181s | Phase: 1 | Remaining: 1.0s
+YELLOW CHECK | Time: 182s | Phase: 1 | Remaining: 0.0s
+DEBUG | Phase: 2 | Requested green: 31s | Scheduled remaining: 31.0s
+Time: 183s | Phase: 2 | AI congestion: 0 | Current queue: 4 | Other queue: 0 | Queue difference: 4 | Green: 31s
+YELLOW CHECK | Time: 215s | Phase: 3 | Remaining: 2.0s
+YELLOW CHECK | Time: 216s | Phase: 3 | Remaining: 1.0s
+YELLOW CHECK | Time: 217s | Phase: 3 | Remaining: 0.0s
+DEBUG | Phase: 0 | Requested green: 37s | Scheduled remaining: 37.0s
+Time: 218s | Phase: 0 | AI congestion: 1 | Current queue: 6 | Other queue: 0 | Queue difference: 6 | Green: 37s
+YELLOW CHECK | Time: 256s | Phase: 1 | Remaining: 2.0s
+YELLOW CHECK | Time: 257s | Phase: 1 | Remaining: 1.0s
+YELLOW CHECK | Time: 258s | Phase: 1 | Remaining: 0.0s
+DEBUG | Phase: 2 | Requested green: 34s | Scheduled remaining: 34.0s
+Time: 259s | Phase: 2 | AI congestion: 1 | Current queue: 4 | Other queue: 0 | Queue difference: 4 | Green: 34s
+YELLOW CHECK | Time: 294s | Phase: 3 | Remaining: 2.0s
+YELLOW CHECK | Time: 295s | Phase: 3 | Remaining: 1.0s
+YELLOW CHECK | Time: 296s | Phase: 3 | Remaining: 0.0s
+DEBUG | Phase: 0 | Requested green: 37s | Scheduled remaining: 37.0s
+Time: 297s | Phase: 0 | AI congestion: 1 | Current queue: 6 | Other queue: 0 | Queue difference: 6 | Green: 37s
+YELLOW CHECK | Time: 335s | Phase: 1 | Remaining: 2.0s
+YELLOW CHECK | Time: 336s | Phase: 1 | Remaining: 1.0s
+YELLOW CHECK | Time: 337s | Phase: 1 | Remaining: 0.0s
+DEBUG | Phase: 2 | Requested green: 25s | Scheduled remaining: 25.0s
+Time: 338s | Phase: 2 | AI congestion: 0 | Current queue: 0 | Other queue: 0 | Queue difference: 0 | Green: 25s
+YELLOW CHECK | Time: 364s | Phase: 3 | Remaining: 2.0s
+YELLOW CHECK | Time: 365s | Phase: 3 | Remaining: 1.0s
+YELLOW CHECK | Time: 366s | Phase: 3 | Remaining: 0.0s
+DEBUG | Phase: 0 | Requested green: 25s | Scheduled remaining: 25.0s
+Time: 367s | Phase: 0 | AI congestion: 0 | Current queue: 0 | Other queue: 0 | Queue difference: 0 | Green: 25s
+YELLOW CHECK | Time: 393s | Phase: 1 | Remaining: 2.0s
+YELLOW CHECK | Time: 394s | Phase: 1 | Remaining: 1.0s
+YELLOW CHECK | Time: 395s | Phase: 1 | Remaining: 0.0s
+DEBUG | Phase: 2 | Requested green: 25s | Scheduled remaining: 25.0s
+Time: 396s | Phase: 2 | AI congestion: 0 | Current queue: 0 | Other queue: 0 | Queue difference: 0 | Green: 25s
+YELLOW CHECK | Time: 422s | Phase: 3 | Remaining: 2.0s
+YELLOW CHECK | Time: 423s | Phase: 3 | Remaining: 1.0s
+YELLOW CHECK | Time: 424s | Phase: 3 | Remaining: 0.0s
+DEBUG | Phase: 0 | Requested green: 25s | Scheduled remaining: 25.0s
+Time: 425s | Phase: 0 | AI congestion: 0 | Current queue: 0 | Other queue: 0 | Queue difference: 0 | Green: 25s
+YELLOW CHECK | Time: 451s | Phase: 1 | Remaining: 2.0s
+YELLOW CHECK | Time: 452s | Phase: 1 | Remaining: 1.0s
+YELLOW CHECK | Time: 453s | Phase: 1 | Remaining: 0.0s
+DEBUG | Phase: 2 | Requested green: 25s | Scheduled remaining: 25.0s
+Time: 454s | Phase: 2 | AI congestion: 0 | Current queue: 0 | Other queue: 0 | Queue difference: 0 | Green: 25s
+YELLOW CHECK | Time: 480s | Phase: 3 | Remaining: 2.0s
+YELLOW CHECK | Time: 481s | Phase: 3 | Remaining: 1.0s
+YELLOW CHECK | Time: 482s | Phase: 3 | Remaining: 0.0s
+DEBUG | Phase: 0 | Requested green: 25s | Scheduled remaining: 25.0s
+Time: 483s | Phase: 0 | AI congestion: 0 | Current queue: 0 | Other queue: 0 | Queue difference: 0 | Green: 25s
+YELLOW CHECK | Time: 509s | Phase: 1 | Remaining: 2.0s
+YELLOW CHECK | Time: 510s | Phase: 1 | Remaining: 1.0s
+YELLOW CHECK | Time: 511s | Phase: 1 | Remaining: 0.0s
+DEBUG | Phase: 2 | Requested green: 25s | Scheduled remaining: 25.0s
+Time: 512s | Phase: 2 | AI congestion: 0 | Current queue: 0 | Other queue: 0 | Queue difference: 0 | Green: 25s
+YELLOW CHECK | Time: 538s | Phase: 3 | Remaining: 2.0s
+YELLOW CHECK | Time: 539s | Phase: 3 | Remaining: 1.0s
+YELLOW CHECK | Time: 540s | Phase: 3 | Remaining: 0.0s
+DEBUG | Phase: 0 | Requested green: 25s | Scheduled remaining: 25.0s
+Time: 541s | Phase: 0 | AI congestion: 0 | Current queue: 0 | Other queue: 0 | Queue difference: 0 | Green: 25s
+YELLOW CHECK | Time: 567s | Phase: 1 | Remaining: 2.0s
+YELLOW CHECK | Time: 568s | Phase: 1 | Remaining: 1.0s
+YELLOW CHECK | Time: 569s | Phase: 1 | Remaining: 0.0s
+DEBUG | Phase: 2 | Requested green: 25s | Scheduled remaining: 25.0s
+Time: 570s | Phase: 2 | AI congestion: 0 | Current queue: 0 | Other queue: 0 | Queue difference: 0 | Green: 25s
+YELLOW CHECK | Time: 596s | Phase: 3 | Remaining: 2.0s
+YELLOW CHECK | Time: 597s | Phase: 3 | Remaining: 1.0s
+YELLOW CHECK | Time: 598s | Phase: 3 | Remaining: 0.0s
+DEBUG | Phase: 0 | Requested green: 25s | Scheduled remaining: 25.0s
+Time: 599s | Phase: 0 | AI congestion: 0 | Current queue: 0 | Other queue: 0 | Queue difference: 0 | Green: 25s
+
+Adaptive simulation completed!
+Results saved to data_adaptive_42.csv
+Simulation time: 600.0
+Active vehicles at end: 0
+Vehicles waiting to enter: 0
+Total unfinished vehicles: 0

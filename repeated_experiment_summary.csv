@@ -1,0 +1,3 @@
+controller,runs,mean_completed_trips,mean_active_vehicles,mean_pending_vehicles,mean_unfinished_vehicles,mean_duration,mean_waiting_time,mean_time_loss,waiting_time_std
+Adaptive,5,150.0,0.0,0.0,0.0,17.59,8.75,11.81,0.12
+Fixed-time,5,150.0,0.0,0.0,0.0,17.89,9.52,12.12,0.03

@@ -1,0 +1,15 @@
+Step #0.00 (1ms ~= 1000.00*RT, ~4000.00UPS, TraCI: 0ms, vehicles TOT 4 ACT 4 BUF 0)       
+Step #100.00 (0ms ?*RT. ?UPS, TraCI: 2ms, vehicles TOT 44 ACT 8 BUF 8)                    
+Step #200.00 (0ms ?*RT. ?UPS, TraCI: 1ms, vehicles TOT 100 ACT 11 BUF 2)                  
+Step #300.00 (0ms ?*RT. ?UPS, TraCI: 1ms, vehicles TOT 150 ACT 4 BUF 0)                   
+Step #400.00 (0ms ?*RT. ?UPS, TraCI: 1ms, vehicles TOT 150 ACT 0 BUF 0)                   
+Step #500.00 (0ms ?*RT. ?UPS, TraCI: 0ms, vehicles TOT 150 ACT 0 BUF 0)                   
+Step #600.00 (0ms ?*RT. ?UPS, TraCI: 1ms, vehicles TOT 150 ACT 0 BUF 0)                   
+
+
+Fixed-time simulation completed successfully!
+Traffic data saved to data_fixed-time_44.csv
+Simulation time: 600.0
+Active vehicles at end: 0
+Vehicles waiting to enter: 0
+Total unfinished vehicles: 0

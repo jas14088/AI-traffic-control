@@ -1,0 +1,1232 @@
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 1ms, vehicles TOT 4 ACT 4 BUF 0)                       
+Step #100.00 (0ms ?*RT. ?UPS, TraCI: 5ms, vehicles TOT 52 ACT 10 BUF 0)                   
+Step #200.00 (0ms ?*RT. ?UPS, TraCI: 4ms, vehicles TOT 102 ACT 8 BUF 0)                   
+Step #300.00 (0ms ?*RT. ?UPS, TraCI: 4ms, vehicles TOT 150 ACT 10 BUF 0)                  
+Step #400.00 (0ms ?*RT. ?UPS, TraCI: 3ms, vehicles TOT 150 ACT 0 BUF 0)                   
+Step #500.00 (0ms ?*RT. ?UPS, TraCI: 3ms, vehicles TOT 150 ACT 0 BUF 0)                   
+Step #600.00 (0ms ?*RT. ?UPS, TraCI: 6ms, vehicles TOT 150 ACT 0 BUF 0)                   
+
+Time: 1s | Phase: 0 | Current queue: 0 | Other queue: 0 | Green duration: 30s
+Time: 35s | Phase: 2 | Current queue: 4 | Other queue: 0 | Green duration: 40s
+Time: 79s | Phase: 0 | Current queue: 6 | Other queue: 0 | Green duration: 40s
+Time: 123s | Phase: 2 | Current queue: 4 | Other queue: 0 | Green duration: 35s
+Time: 162s | Phase: 0 | Current queue: 6 | Other queue: 0 | Green duration: 40s
+Time: 206s | Phase: 2 | Current queue: 4 | Other queue: 0 | Green duration: 40s
+Time: 250s | Phase: 0 | Current queue: 6 | Other queue: 0 | Green duration: 40s
+Time: 294s | Phase: 2 | Current queue: 4 | Other queue: 0 | Green duration: 40s
+Time: 338s | Phase: 0 | Current queue: 2 | Other queue: 0 | Green duration: 35s
+Time: 377s | Phase: 2 | Current queue: 0 | Other queue: 0 | Green duration: 30s
+Time: 411s | Phase: 0 | Current queue: 0 | Other queue: 0 | Green duration: 30s
+Time: 445s | Phase: 2 | Current queue: 0 | Other queue: 0 | Green duration: 30s
+Time: 479s | Phase: 0 | Current queue: 0 | Other queue: 0 | Green duration: 30s
+Time: 513s | Phase: 2 | Current queue: 0 | Other queue: 0 | Green duration: 30s
+Time: 547s | Phase: 0 | Current queue: 0 | Other queue: 0 | Green duration: 30s
+Time: 581s | Phase: 2 | Current queue: 0 | Other queue: 0 | Green duration: 30s
+
+Adaptive simulation completed successfully!
+Traffic input: traffic.rou.xml
+Traffic data saved to: heavy_data_adaptive_45.csv
+Simulation time: 600.0
+Active vehicles at end: 0
+Vehicles waiting to enter: 0
+Total unfinished vehicles: 0
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
+C:\Users\Pratyoosh Sharma\AppData\Local\Python\pythoncore-3.15-64\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but RandomForestClassifier was fitted with feature names
+  warnings.warn(
